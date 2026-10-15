@@ -1,0 +1,6 @@
+{
+  "name": "Steel Front: Tank Defense",
+  "description": "Tactical top-down tank defense game inspired by Battle City and Tank 1990. Defend your military Command Core, conquer 6 escalating combat sectors with distinct tactical themes, and eliminate intelligent enemy armor divisions on desktop and mobile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
